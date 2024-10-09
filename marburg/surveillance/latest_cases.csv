@@ -1,0 +1,13 @@
+"source","data","state","new_cases","total_cases","new_hospitalized","total_hospitalized","new_deaths","total_deaths","new_recovered","total_recovered","new_testing","total_testing"
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_1.jpeg",2024-09-28,"Rwanda",26,26,20,20,6,6,NA,NA,NA,NA
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_2.jpeg",2024-09-29,"Rwanda",0,26,-2,18,2,8,NA,NA,NA,NA
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_3.jpeg",2024-09-30,"Rwanda",1,27,0,19,1,9,NA,NA,NA,NA
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_4.jpeg",2024-10-01,"Rwanda",2,29,1,19,1,10,NA,NA,NA,NA
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_5.jpeg",2024-10-02,"Rwanda",7,36,6,25,1,11,NA,NA,NA,NA
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_6.jpeg",2024-10-03,"Rwanda",1,37,-4,21,0,11,5,5,1000,1000
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_7.jpeg",2024-10-04,"Rwanda",4,41,3,24,1,12,0,5,315,1315
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_8.jpeg",2024-10-05,"Rwanda",5,46,5,29,0,12,0,5,433,1748
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_9.jpeg",2024-10-06,"Rwanda",3,49,0,29,0,12,3,8,359,2107
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_10.jpeg",2024-10-07,"Rwanda",7,56,7,36,0,12,0,8,280,2387
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_11.jpeg",2024-10-08,"Rwanda",2,58,-3,33,1,13,4,12,268,2655
+"https://github.com/fbranda/diseaseX/blob/main/marburg/bulletins/MARBURG_RWANDA_12.jpeg",2024-10-09,"Rwanda",0,58,0,33,0,13,0,12,111,2766
